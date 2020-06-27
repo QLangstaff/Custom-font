@@ -1,4 +1,4 @@
 ## Custom-font
 I used [Calligraphr](https://www.calligraphr.com/en/webapp/app_home/?/) to turn my own handwriting into a custom font.
 
-(images/font.png)
+![My font](images/font.png)
